@@ -1,0 +1,71 @@
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\FedAuth CP.dll.config
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\FedAuth CP.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\FedAuth CP.pdb
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\Newtonsoft.Json.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Net.Http.Formatting.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Http.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Http.WebHost.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Mvc.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.Razor.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\Newtonsoft.Json.xml
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Net.Http.Formatting.xml
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Http.xml
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Http.WebHost.xml
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Mvc.xml
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.xml
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.Razor.xml
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\obj\Debug\FedAuth CP.dll
+C:\Users\andrey.karpik\Documents\SVNGIT\FedAuth server-side code sample\FedAuth gated content sample\obj\Debug\FedAuth CP.pdb
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\FedAuth CP.dll.config
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\FedAuth CP.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\FedAuth CP.pdb
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\Newtonsoft.Json.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Net.Http.Formatting.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Http.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Http.WebHost.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Mvc.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.Razor.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\Newtonsoft.Json.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Net.Http.Formatting.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Http.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Http.WebHost.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.Mvc.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\bin\System.Web.WebPages.Razor.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\obj\Debug\FedAuth Crownpeak.csprojResolveAssemblyReference.cache
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\obj\Debug\FedAuth CP.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\FedAuth gated content sample\obj\Debug\FedAuth CP.pdb
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\FedAuth CP.dll.config
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\FedAuth CP.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\FedAuth CP.pdb
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\Newtonsoft.Json.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Net.Http.Formatting.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.Http.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.Http.WebHost.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.Mvc.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.WebPages.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.WebPages.Razor.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\Newtonsoft.Json.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Net.Http.Formatting.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.Http.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.Http.WebHost.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.Mvc.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.WebPages.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\bin\System.Web.WebPages.Razor.xml
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\obj\Debug\FedAuth Crownpeak.csprojResolveAssemblyReference.cache
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\obj\Debug\FedAuth CP.dll
+C:\Users\andrey.karpik\Documents\GitHub\PS-FedAuth server-side code sample\PS-FedAuth-server-side-code-sample\obj\Debug\FedAuth CP.pdb

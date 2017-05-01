@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TestMaster.master.cs" Inherits="FedAuth.CP._Global.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder ID="cphLightBoxForm" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <asp:Literal id="litPageType" runat="server" Text="" Visible="false"></asp:Literal>
+<asp:Literal id="configAssetPath" runat="server" text="" Visible="false"></asp:Literal>
+    <asp:Literal ID="litSegAnchor" runat="server" Visible="true" Text=""></asp:Literal>
+
+
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="cphMainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <asp:ContentPlaceHolder ID="cphSocialLinks" runat="server">
+
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>
